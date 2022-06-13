@@ -888,6 +888,8 @@ if __name__ == '__main__':
     lista_ordenada = ordenamiento_por_mezcla(lista)
     print(lista_ordenada)
 ```
+#Animación de los algoritmos de ordenación
+<a href="https://visualgo.net/en/sorting"> Aquí</a>
 
 # Ambientes virtuales
 
